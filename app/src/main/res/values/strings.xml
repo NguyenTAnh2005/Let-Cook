@@ -1,0 +1,221 @@
+<resources>
+    <!--REAL-->
+    <!--REAL-->
+    <!--COPY RIGHT-->
+    <string name="copyright">"@Copyright by NguyenTuanAnh-LeNgocSang 07/2025 - BDU Students"</string>
+
+    <!--Slogan ACT-->
+    <string name="mainact_slogan">Hôm nay nấu gì?</string>
+    <string name="nav2_slogan">Khám phá món ăn</string>
+    <string name="nav3_slogan">Chia sẻ cảm nghĩ</string>
+    <string name="nav4_slogan">Danh sách yêu thích</string>
+    <string name="nav5_slogan">Thông tin tài khoản</string>
+    <string name="nav6_slogan">Quản lý dữ liệu</string>
+
+
+    <!--MAIN ACT-->
+    <string name="nav1_str">Trang chủ</string>
+    <string name="nav2_str">Món ăn</string>
+    <string name="nav3_str">Đăng bài</string>
+    <string name="nav4_str">Yêu thích</string>
+    <string name="nav5_str">Tài khoản</string>
+    <string name="nav6_str">Quản lý</string>
+
+
+    <!--FOOD ITEM-->
+    <string name="app_name">LET__COOK</string>
+    <string name="food_item_str1">Quay lại</string>
+    <string name="food_item_str2">Tên món ăn</string>
+    <string name="food_item_str3">Giới thiệu món ăn</string>
+    <string name="food_item_str4">Nguyên liệu</string>
+    <string name="food_item_str5">Mẹo vặt cho món ăn</string>
+    <string name="food_item_str6">Các bước chế biến</string>
+    <string name="food_item_str7">Tham khảo thêm </string>
+
+    <!--LOGIN-->
+    <string name="login_str1">Đăng nhập</string>
+    <string name="login_str2">Email</string>
+    <string name="login_str2_value">Nhập email của bạn</string>
+    <string name="login_str3">Mật khẩu</string>
+    <string name="login_str3_value">Nhập mật khẩu của bạn</string>
+    <string name="login_str4_1">Bạn chưa có tài khoản? </string>
+    <string name="login_str4_2">Đăng ký</string>
+    <string name="login_str5">Quên mật khẩu?</string>
+    <string name="login_str6">Tiếp tục sử dụng ứng dụng mà không cần đăng nhập? </string>
+
+
+    <!--SIGN UP-->
+    <string name="signup_str1">Đăng ký</string>
+    <string name="signup_str2">Họ và tên đệm </string>
+    <string name="signup_str2_value">Nhập họ và tên đệm</string>
+    <string name="signup_str3">Tên</string>
+    <string name="signup_str3_value">Nhập tên </string>
+    <string name="signup_str4">Email </string>
+    <string name="signup_str4_value">Nhập email </string>
+    <string name="signup_str5">Mật khẩu </string>
+    <string name="signup_str5_value">Nhập mật khẩu </string>
+    <string name="signup_str6">Xác thực mật khẩu </string>
+    <string name="signup_str6_value">Nhập mật khẩu </string>
+    <string name="signup_str7">Chọn ngày sinh</string>
+    <string name="signup_str7_value">Ngày sinh của bạn</string>
+    <string name="signup_str8_1">Bạn đã có tài khoản? </string>
+    <string name="signup_str8_2">Đăng nhập</string>
+    <string name="signup_str9">Quên mật khẩu?</string>
+    <string name="signup_gender_title">Giới tính</string>
+    <string name="signup_gender_value1">Nam</string>
+    <string name="signup_gender_value2">Nữ</string>
+
+    <!--FORGOT PASSWORD-->
+    <string name="forgotpass_str1">Quên mật khẩu</string>
+    <string name="forgotpass_str2">Email</string>
+    <string name="forgotpass_str2_value">Nhập email của bạn</string>
+    <string name="forgotpass_str4">Gửi mật khẩu</string>
+    <string name="forgotpass_str4_value">Nhập mật khẩu</string>
+    <string name="forgotpass_str3"> Chúng tôi sẽ gửi mật khẩu mới vào email trên. Vui lòng kiểm tra và nhập mật khẩu mới để đăng nhập. Bạn có thể đổi mật khẩu sau trong mục Tài khoản! Nếu như không thấy mail được gửi trong hộp thư đến, hãy thử kiểm tra thư mục rác!</string>
+    <string name="forgotpass_str5">Quay lại</string>
+    <string name="forgotpass_str6">Đăng nhập</string>
+
+    <!--Account-->
+    <string name="nav5_str1">Xin chào - USER NAME</string>
+    <string name="nav5_str2">Thay đổi thông tin</string>
+    <string name="nav5_str2_1">Thông tin cá nhân</string>
+    <string name="nav5_str2_2">Thông tin bảo mật</string>
+    <string name="nav5_str3">Danh sách bài đăng</string>
+    <string name="nav5_str4">Danh sách yêu thích</string>
+    <string name="nav5_str5">Đăng xuất</string>
+
+    <!--Account -> Act1 -->
+    <string name="nav5_act1_str0">Thông tin cá nhân</string>
+    <string name="nav5_act1_str1">Họ và tên user</string>
+    <string name="nav5_act1_str2">Id: ...........</string>
+    <string name="nav5_act1_str3">"Họ và tên đệm "</string>
+    <string name="nav5_act1_str3_value"> Value</string>
+    <string name="nav5_act1_str4">Tên</string>
+    <string name="nav5_act1_str4_value">Value</string>
+    <string name="nav5_act1_str5">Giới tính</string>
+    <string name="nav5_act1_str5_value">Value</string>
+    <string name="nav5_act1_str6">Ngày Sinh</string>
+    <string name="nav5_act1_str6_value">value - cần xem xét ở bên Sign up thử đã </string>
+    <string name="nav5_act1_str7">Email</string>
+    <string name="nav5_act1_str7_value">Value</string>
+    <string name="nav5_act1_str8">Quyền truy cập</string>
+    <string name="nav5_act1_str8_value">Value</string>
+    <string name="nav5_act1_str9">Quay lai</string>
+
+    <!--Account -> Act2 -->
+    <string name="nav5_act2_str0"> Thay đổi thông tin cá nhân </string>
+    <string name="nav5_act2_str1"> Họ và tên đệm </string>
+    <string name="nav5_act2_str1_value"> Họ và tên đệm value </string>
+    <string name="nav5_act2_str2"> Tên </string>
+    <string name="nav5_act2_str2_value">tên value </string>
+    <string name="nav5_act2_str3"> Gioi tinh </string>
+    <string name="nav5_act2_str3_value1"> Nam </string>
+    <string name="nav5_act2_str3_value2"> Nữ </string>
+    <string name="nav5_act2_str4"> Ngày sinh </string>
+    <string name="nav5_act2_str4_value"> Nhân đế chọn ngày </string>
+    <string name="nav5_act2_str5"> Hủy </string>
+    <string name="nav5_act2_str6"> Xác nhận </string>
+
+    <!--Account -> Act3 -->
+    <string name="nav5_act3_str0"> Thay đổi thông tin bảo mật </string>
+    <string name="nav5_act3_str1"> Email mới </string>
+    <string name="nav5_act3_str1_value"> Email value </string>
+    <string name="nav5_act3_str2"> Mật khẩu mới </string>
+    <string name="nav5_act3_str2_value"> Nhập mật khẩu mới </string>
+    <string name="nav5_act3_str3">Xác nhận mật khẩu mới </string>
+    <string name="nav5_act3_str3_value">Nhập mật khẩu mới </string>
+    <string name="nav5_act3_str4">Thay đổi bằng mật khẩu </string>
+    <string name="nav5_act3_str5">Thay đổi bằng email  </string>
+
+    <!-- Account => act3=> pasword -->
+    <string name="nav5_act3_password_str0">Xác nhận với mật khẩu </string>
+    <string name="nav5_act3_password_str1">Mật khẩu </string>
+    <string name="nav5_act3_password_str1_value">Nhập mật khẩu </string>
+    <string name="nav5_act3_password_str2">Nếu như thay đổi mật khẩu mới, hãy nhập mật khẩu cũ!</string>
+    <string name="nav5_act3_password_str3">Hủy </string>
+    <string name="nav5_act3_password_str4">Xác nhận </string>
+
+    <!-- Account => act3=> email -->
+    <string name="nav5_act3_email_str0">Xác nhận với email </string>
+    <string name="nav5_act3_email_str1"> Email </string>
+    <string name="nav5_act3_email_str1_value"> Nhập email </string>
+    <string name="nav5_act3_email_str2">Nếu như thay đổi email mới, hãy nhập email cũ!</string>
+    <string name="nav5_act3_email_str3"> Gửi mã </string>
+    <string name="nav5_act3_email_str3_value"> Nhập mã </string>
+    <string name="nav5_act3_email_str4"> Hủy </string>
+    <string name="nav5_act3_email_str5"> Xác nhận </string>
+
+    <!--Lọc theo tag-->
+    <string name="nav_food_spinner_value0">Tất cả</string>
+    <string name="nav_food_spinner_value1">Kho</string>
+    <string name="nav_food_spinner_value2">Xào</string>
+    <string name="nav_food_spinner_value3">Canh</string>
+    <string name="nav_food_spinner_value4">Chiên</string>
+    <string name="nav_food_spinner_value5">Bánh</string>
+    <string name="nav_food_spinner_value6">Khác</string>
+
+    <!--NOT LOG IN -->
+    <string name="not_login_str1">Bạn cần đăng nhập đê sử dụng tính năng này :D</string>
+    <string name="not_login_str2">Đăng nhập</string>
+    <string name="not_login_str3">Hủy</string>
+
+
+    <!--UAD -->
+    <string name="nav_uad_str_1">Thêm</string>
+    <string name="nav_uad_str_2">Cập nhật, Xóa </string>
+
+
+    <!--ADD DATABASE -->
+    <string name="nav6_act1_str0">Thêm dữ liệu</string>
+    <string name="nav6_act1_str1_1">Độ khó</string>
+    <string name="nav6_act1_str1_2">Giới thiệu</string>
+    <string name="nav6_act1_str2">Chọn tag </string>
+    <string name="nav6_act1_str3">Tên món ăn</string>
+    <string name="nav6_act1_str4">Nguyên liệu</string>
+    <string name="nav6_act1_str5">Mẹo vặt cho món ăn </string>
+    <string name="nav6_act1_str6">Các bước chế biến</string>
+    <string name="nav6_act1_str7">Tham khảo thêm</string>
+    <string name="nav6_act1_str8">Hủy</string>
+    <string name="nav6_act1_str9">Thêm</string>
+
+
+    <!--HOME NAV-->
+    <string name="nav1_str1">Chào mừng đến với Let’s Cook – Thế giới ẩm thực trong tầm tay bạn!</string>
+    <string name="nav1_str2">Dù bạn là một “cao thủ” trong bếp hay chỉ mới bắt đầu hành trình nấu ăn, Let’s Cook đều có những công thức đơn giản, dễ thực hiện với nhiều cấp độ khác nhau để bạn lựa chọn.
+Hãy cùng chúng tôi vào bếp, nấu những món ăn ngon và lưu giữ khoảnh khắc yêu thương bên mâm cơm ấm áp mỗi ngày!</string>
+    <string name="nav1_str3">Các món được đề xuất</string>
+    <string name="nav1_str4">Khám phá thêm</string>
+
+
+    <!--Chuaw OKE-->
+    <string name="not_ok"> Feature is under development, please wait for next update :D</string>
+
+
+    <!--FOOD ITEM UPDATE-->
+    <string name="update_food_item_str1">Tên mới</string>
+    <string name="update_food_item_str2">Giới thiệu </string>
+    <string name="update_food_item_str3">Nguyên liệu</string>
+    <string name="update_food_item_str4">Mẹo vặt</string>
+    <string name="update_food_item_str5">Các bước chế biến</string>
+    <string name="update_food_item_str6">Tham khảo thêm</string>
+    <string name="update_food_item_str9">Độ khó</string>
+    <string name="update_food_item_str7">Hủy</string>
+    <string name="update_food_item_str8">Cập nhật</string>
+
+    <!--POST -->
+    <string name="nav_3_str0">Tính năng này đang được chúng em lên kế hoạch để phát triển thêm ở các phiên bản sau!</string>
+
+    <!--REAL-->
+    <!--Test-->
+
+
+
+    <!-- Trong xml, nen doi cac ky tu sau de tranh gay loi, => ko anh huong j dau
+    Ký tự	Escape thành
+    &	&amp;
+    <	&lt;
+        >	&gt;
+    '	&apos;
+    "	&quot;-->
+
+</resources>
