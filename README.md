@@ -1,5 +1,5 @@
 # Food Management Mobile Application (Android – Java & SQLite)
-
+ 🇻🇳 Vietnamese version: [README_VI.md](./README_VI.md).
 An Android mobile application developed using Java and XML, featuring food search and management functionality with SQLite database integration.
 
 ---
@@ -83,4 +83,4 @@ This project helped me:
 These limitations reflect the early stage of my mobile development journey and provided valuable learning experience.
 
 ---
-🇻🇳 Vietnamese version: [README_VI.md](./README_VI.md)
+
